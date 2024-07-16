@@ -1,0 +1,15 @@
+com\lecuong\multidatabase\config\DepartmentDbConfig.class
+com\lecuong\multidatabase\config\UserDbConfig.class
+com\lecuong\multidatabase\repository\departmentrepository\DepartmentRepository.class
+com\lecuong\multidatabase\entity\userservice\User.class
+com\lecuong\multidatabase\controller\UserController.class
+com\lecuong\multidatabase\service\impl\UserServiceImpl.class
+com\lecuong\multidatabase\controller\DepartmentController.class
+com\lecuong\multidatabase\repository\userrepository\UserRepository.class
+com\lecuong\multidatabase\service\UserService.class
+com\lecuong\multidatabase\model\request\BaseRequest.class
+com\lecuong\multidatabase\service\impl\DepartmentServiceImpl.class
+com\lecuong\multidatabase\service\DepartmentService.class
+com\lecuong\multidatabase\repository\BaseRepository.class
+com\lecuong\multidatabase\entity\departmentservice\Department.class
+com\lecuong\multidatabase\MultiDatabaseApplication.class

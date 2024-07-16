@@ -1,0 +1,15 @@
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\config\UserDbConfig.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\service\impl\DepartmentServiceImpl.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\service\UserService.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\controller\UserController.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\entity\userservice\User.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\model\request\BaseRequest.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\service\impl\UserServiceImpl.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\controller\DepartmentController.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\repository\userrepository\UserRepository.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\entity\departmentservice\Department.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\MultiDatabaseApplication.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\repository\departmentrepository\DepartmentRepository.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\repository\BaseRepository.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\config\DepartmentDbConfig.java
+D:\Project\multi-database\src\main\java\com\lecuong\multidatabase\service\DepartmentService.java
